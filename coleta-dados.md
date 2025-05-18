@@ -80,7 +80,7 @@
 
 ---
 
-## 🗓️ Linha do Tempo Detalhada — Caso Kirov (1933–1934)
+## Linha do Tempo Detalhada — Caso Kirov (1933–1934)
 
 📌 *Baseada nos fatos estabelecidos pela acusação*
 
@@ -183,7 +183,7 @@
 
 ---
 
-## 🏛️ Tabela de Relações Hierárquicas — "Centro de Leningrado"
+## Tabela de Relações Hierárquicas — "Centro de Leningrado"
 
 | 🏷️ **Nível Hierárquico** | 👤 **Nome do Réu**      | 🧰 **Função/Cargo**                                        | 🔗 **Subordinados/Parceiros Diretos** | 📂 **Prova Documental**      |
 | ------------------------- | ----------------------- | ---------------------------------------------------------- | ------------------------------------- | ---------------------------- |
@@ -266,10 +266,131 @@
 
 ---
 
-Próxima seção: a **Matriz de Composição do “Centro de Leningrado”**, com colunas comparativas entre os depoimentos. Deseja que eu prossiga com ela?
+## **Matriz de Composição do “Centro de Leningrado”**
+
+## 👥 Tabela de Incriminações Cruzadas — Caso Kirov (1934)
+
+📌 *Relações de depoimentos conforme o documento original*
+
+| 👤 **Membro do Centro** | 🎯 **Declarado por** | 💬 **Trecho do Depoimento** | 📂 **Localização** | 👤 **Corroborado por** | 🧷**Contradições/Notas** |
+| ----------------------- | ------------------- | -------------------------------------------------------------------- | ------------------ | --------------------------- | ---------------------------|
+| **Ivan Kotolynov** | Vladimir Rumyantsev | "Levin, eu – Rumyantsev, Mandel'shtam, Kotolynov, Myasnikov e Sositsky compunham o centro." | vol. 2, fl. 3  | Myasnikov, Mandel'shtam, Khanik | Nenhuma. Todos concordam com sua liderança. |                |
+| **Vladimir Levin** | Vladimir Rumyantsev | (idem acima) | vol. 2, fl. 3  | Myasnikov, Mandel'shtam, Khanik | Nenhuma. Figura central no depoimento de Khanik (fl. 33-34). |
+| **Vladimir Rumyantsev** | Sergei Mandel'shtam | "Centro composto por mim, Rumyantsev, Levin, Sositsky." | vol. 2, fl. 250 | Myasnikov, Khanik | Omite Kotolynov e Myasnikov. |
+| **Sergei Mandel'shtam** | Vladimir Rumyantsev | (idem primeiro depoimento) | vol. 2, fl. 3 | Myasnikov | Nenhuma. Presença confirmada por múltiplos réus. |
+| **Nikolai Myasnikov**     | Nikolai Myasnikov | "Centro era composto por Levin, Rumyantsev, Kotolynov, Sositsky e eu." | vol. 2, fl. 108 | Rumyantsev | Exclui Mandel'shtam (contradiz Rumyantsev). |
+| **Lev Sositsky** | Vladimir Rumyantsev | (idem primeiro depoimento) | vol. 2, fl. 3 | Myasnikov, Mandel'shtam | Nenhuma. |
+| **Leonid Nikolaev** | Vasilii Zvezdov | "Nikolaev foi educado por nós e ligado ao grupo desde 1924." | vol. 1, fl. 199 | Nikolaev (confirma em fl. 266) | **Contradição**: Acusação o inclui no centro, mas outros réus não o mencionam como membro ativo. |
+
+---
+
+## Análise das Contradições 🧐
+
+### 👤 Inclusão de Nikolaev no Centro:
+
+* A acusação formal afirma que Nikolaev fazia parte do centro (texto introdutório), mas nenhum réu o menciona como membro ativo.
+* Zvezdov só fala de sua ligação histórica com o grupo (desde 1924).
+
+### 🤐 Omissões nos Depoimentos:
+
+* Mandel'shtam não cita Kotolynov ou Myasnikov (vol. 2, fl. 250), mas estes são citados por outros.
+* Myasnikov não cita Mandel'shtam (vol. 2, fl. 108), criando uma lacuna.
+
+### 👑 Papel de Liderança:
+
+* Khanik (vol. 2, fl. 33-34) reforça que Rumyantsev, Levin e Kotolynov eram líderes, mas não menciona Myasnikov ou Mandel'shtam.
+
+## Conclusões 🏁
+
+### ✅ Consistências:
+
+* Todos os réus concordam que Kotolynov, Levin e Rumyantsev eram líderes.
+* Sositsky é citado uniformemente como membro.
+
+### ❌ Contradições Principais:
+
+* Nikolaev foi incluído no centro pela acusação, mas não há confirmação direta pelos réus.
+* Myasnikov e Mandel'shtam omitem-se mutuamente em seus depoimentos.
+* Mandel'shtam minimiza seu próprio papel (não se cita como líder).
+
+## 📊 Tabela Auxiliar: Corroboração Cruzada
+
+| Membro do Centro   | Nº de Réus que o Citam | Réus que o Confirmam                      |
+| :------------------ | :---------------------: | :-------------------------------------- |
+| Ivan Kotolynov      |            4            | Rumyantsev, Myasnikov, Khanik, Zvezdov   |
+| Vladimir Levin      |            4            | Rumyantsev, Myasnikov, Mandel'shtam, Khanik |
+| Leonid Nikolaev     |            1            | Zvezdov (mas só como membro secundário) |
 
 
+---
+
+## 🧩 Matriz de Consolidação do Grupo (1933-1934)
+
+(Cruzando depoimentos sobre formação, ideologia e estrutura)
+
+| 🧷 **Elemento** | 🎯 **Acusação** | 💬 **Depoimentos Corroborativos** | 📂 **Contradições/Notas** |
+| ---------------- | --------------- | --------------------------------- | ------------------------- | 
+| Período de formação | 1933-1934, com atividade crescente a partir de outubro/1934. | - Khanik: *"Consolidou-se em 1933"* (vol. 2, fl. 33). - Sokolov: *"Intensificação em outubro/1934"* (vol. 1, fl. 249). | Khanik antecipa a consolidação em relação a Sokolov. Pode indicar células distintas ou estágios diferentes. |
+| Base ideológica | Plataforma trotskista-zinovievista, com objetivo de substituir a liderança do partido. | - Nikolaev: "Seguíamos o bloco trotskista-zinovievista" (vol. 1, fl. 266). - Khanik: Confirma (vol. 2, fl. 35). | Nenhuma contradição direta, mas Sokolov não menciona Trotsky (só Zinoviev). |
+| Liderança | "Centro de Leningrado" com 8 membros (Kotolynov, Levin, Rumyantsev, etc.). | - Rumyantsev: Lista 6 nomes (vol. 2, fl. 3). - Mandel'shtam: Lista 4 nomes (vol. 2, fl. 250). | Myasnikov omite Mandel'shtam; acusação inclui Nikolaev sem confirmação direta. |
+| Estrutura | Células clandestinas sob comando do "centro". Contato individual entre membros. | - Khanik: "Apenas o centro conhecia a estrutura completa" (vol. 2, fl. 35). - Myasnikov: Encontrou arquivos da oposição (prova material). | Zvezdov menciona "educação" de membros como Nikolaev (vol. 1, fl. 199), sugerindo hierarquia informal. | 
 
 
+---
 
+## 🧩 Composição do "Centro de Leningrado"
 
+(Comparação direta entre depoimentos)
+
+| 👤 Membro do Centro | 💬 Rumyantsev (vol. 2, fl. 3) | 💬 Mandel'shtam (vol. 2, fl. 250) | 💬 Myasnikov (vol. 2, fl. 108) | 🧾 Acusação Formal | 📌 Notas |
+| -------------------- | ----------------------------- | ---------------------------------- | ------------------------------ | ------------------ | --------- |
+| Ivan Kotolynov | ✔️ | ❌ | ✔️ | ✔️ | Mandel'shtam omite Kotolynov |
+| Vladimir Levin | ✔️ | ✔️ | ✔️ | ✔️ | Consenso |
+| Vladimir Rumyantsev | ✔️ (autor) | ✔️ | ✔️ | ✔️ | Autoincluído |
+| Sergei Mandel'shtam | ✔️ | ✔️ (autor) | ❌ | ✔️ | Myasnikov omite Mandel'shtam |
+| Nikolai Myasnikov | ✔️ | ❌ | ✔️ (autor) | ✔️ | Mandel'shtam omite Myasnikov |
+| Lev Sositsky | ✔️ | ✔️ | ✔️ | ✔️ | Consenso |
+| Leonid Nikolaev | ❌ | ❌ | ❌ | ✔️ | **Contradição**: Inclusão não corroborada |
+| Nikolai Shatsky |	❌ | ❌ | ❌ | ✔️ | Sem menção em depoimentos sobre o centro |
+
+--- 
+
+Análise de Contradições
+
+1.  Inclusão de Nikolaev e Shatsky no "Centro"
+
+    * Acusação: Afirma que ambos faziam parte do núcleo (texto introdutório).
+    * Depoimentos:
+        * Zvezdov só menciona Nikolaev como "educado" pelo grupo (vol. 1, fl. 199).
+        * Nenhum réu cita Shatsky como membro do centro.
+    * Conclusão: Possível arbitrariedade da acusação para vincular o assassino diretamente à liderança.
+
+2.  Período de Consolidação (Khanik vs. Sokolov)
+
+    * Khanik: Grupo consolidado em 1933 (vol. 2, fl. 33).
+    * Sokolov: Intensificação só em outubro/1934 (vol. 1, fl. 249).
+    * Explicação: Pode refletir níveis diferentes de envolvimento (Khanik na liderança, Sokolov na base).
+
+3.  Omissões Recíprocas (Myasnikov vs. Mandel'shtam)
+
+    * Myasnikov exclui Mandel'shtam de sua lista (vol. 2, fl. 108).
+    * Mandel'shtam omite Myasnikov e Kotolynov (vol. 2, fl. 250).
+    * Padrão: Réus minimizam colegas para reduzir sua própria culpa.
+
+Parte 4: Tabelas Auxiliares
+
+Tabela 1: Corroboração Cruzada da Liderança
+
+| Líder               | Nº de Réus que o Citam | Réus                                  |
+| :------------------ | :---------------------: | :------------------------------------ |
+| Vladimir Levin      |            4            | Rumyantsev, Myasnikov, Mandel'shtam, Khanik |
+| Ivan Kotolynov      |            3            | Rumyantsev, Myasnikov, Zvezdov           |
+| Vladimir Rumyantsev |            3            | Myasnikov, Mandel'shtam, Khanik           |
+
+Tabela 2: Linha do Tempo das Atividades
+
+| Ano  | Evento                            | Fonte                |
+| :--- | :-------------------------------- | :------------------- |
+| 1924 | Nikolaev ligado a Kotolynov no Komsomol | Zvezdov (vol. 1, fl. 199) |
+| 1933 | Consolidação inicial (Khanik)       | vol. 2, fl. 33        |
+| Out/1934 | Intensificação de vínculos (Sokolov) | vol. 1, fl. 249       |
